@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nader-ghz
 - 👀 I’m interested in php & laravel 
-- 🌱 I’m currently learning reactjs and open to learn vuejs
-- 💞️ I’m looking to collaborate on project combine the two frameworks (laravel , reactjs ) 
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on project combine the two frameworks (laravel , reactjs , vuejs ) 
 - 📫 How to reach me ghazouani.nader@gmail.com
 
 <!---
